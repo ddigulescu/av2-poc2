@@ -1,0 +1,19 @@
+{
+  "name": "av2-poc2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-react-engine": "^0.5.0",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dragos Digulescu <dragos.digulescu@iquestgroup.com> (https://github.com/ddigulescu)",
+  "license": "ISC"
+}
